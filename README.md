@@ -67,7 +67,6 @@ AnandTask/
 - **MongoDB Integration** with Mongoose ODM
 - **Input Validation** with express-validator
 - **Error Handling** with custom middleware
-- **Search & Filtering** with multiple criteria
 - **Pagination** for large datasets
 - **Rate Limiting** for API protection
 - **Sample Data Seeding** for quick testing
@@ -76,7 +75,6 @@ AnandTask/
 ### Frontend Features
 - **Modern React UI** with responsive design
 - **Product Grid View** with hover effects
-- **Advanced Search & Filters** (category, brand, price range)
 - **Detailed Product Views** with specifications
 - **Create/Edit Forms** with validation
 - **Real-time Feedback** with toast notifications
@@ -206,6 +204,3 @@ For production deployment:
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
